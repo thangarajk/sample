@@ -1,4 +1,5 @@
 
+//find bigest number among three
 var x=10,y=25,z=13;
 if(x>y && x>z)
     alert("x is greaterthen y&z");
